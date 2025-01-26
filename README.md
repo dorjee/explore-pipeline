@@ -1,1 +1,1 @@
-# explore-pipeline
+# eXplore Virtual Library Pipeline
